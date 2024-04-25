@@ -1,0 +1,26 @@
+---
+layout: page
+title: Registration
+registration_state: notyet
+---
+
+{% case page.registration_state %}
+{% when 'notyet' %}
+<p class="message">Registration will be open starting from May 1st, 2024</p>
+
+{% when 'closed' %}
+<p class="message">Registration is closed.</p>
+
+{% when 'open' %}
+<p class="message">Registration is open till June 15, 2024.</p>
+
+<p>
+Please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN9RlFxFbHDCK3ySNP8zsFqb9YR9p3Ma16ZDh2zyOiFWCMwA/viewform">here (Google Forms)</a>.
+</p>
+
+<p>
+If you have any questions regarding registration or in general, feel free to
+<a href="mailto:mohamed.barakat@uni-siegen.de; daniel.juteau@u-picardie.fr">contact us via email</a>.
+</p>
+
+{% endcase %}

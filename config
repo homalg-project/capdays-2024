@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/homalg-project/capdays-2018/
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "gh-pages"]
+	remote = origin
+	merge = refs/heads/gh-pages
