@@ -53,6 +53,7 @@ The program below is tentative and will be updated during the workshop
 * 12:00 - 14:00: Lunch
 * 14:00 - 17:00: Exercise session/projects of participants
 * 17:00 - 17:30: Stand-up: What did we achieve today?
+* 19:00: [Ile Aux Fruits](https://maps.app.goo.gl/5PbHfJX1gVWSk28H9)
 
 ### Friday:
 
