@@ -12,8 +12,8 @@ The program below is tentative and will be updated during the workshop
 ### Monday:
 
 * 09:50 - 10:00: Welcome
-* 10:00 - 11:00: Barakat/Zickgraf: *Introduction to CAP: Constructive category theory and applications (Part I)*<br/>
-> **Abstract:** In this talk we explain the concept of constructive category theory
+* 10:00 - 11:00: Barakat/Zickgraf: *Introduction to CAP: Algorithmic category theory and applications (Part I)*<br/>
+> **Abstract:** In this talk we explain the concept of algorithmic category theory
 > and its implementation in our software project
 > CAP - Categories, algorithms, programming.
 > Furthermore, we show the benefits of CAP's framework

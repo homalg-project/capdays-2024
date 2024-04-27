@@ -8,7 +8,7 @@ title: Home
 ## {{ site.description }}<br> {{ site.location }}
 
 [CAP][CAP] (shorthand for Categories, Algorithms, Programming) is a
-software project for constructive category theory written in
+software project for algorithmic category theory written in
 [GAP](http://www.gap-system.org).  It facilitates both the realization
 of specific instances of categories and the implementation of generic
 categorical algorithms.
