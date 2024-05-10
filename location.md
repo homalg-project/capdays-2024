@@ -17,9 +17,15 @@ Please look [here](https://maps.app.goo.gl/mptRFRHutuKjzPvf8) for directions.
 
 ### Accommodation
 
-We recommend [Appart'City Confort](https://www.appartcity.com/en/).
+We recommend 
+
+* [Appart'City Confort](https://www.appartcity.com/en/).
 
 Itinerary from [Appart'City Confort to the LAMFA](https://maps.app.goo.gl/eATEoqfTgQC8v8dG6).
+
+* [Hôtel Victor Hugo](https://www.hotel-a-amiens.fr/).
+
+Itinerary from [Hôtel Victor Hugo to the LAMFA](https://maps.app.goo.gl/Leq5ngBSuBRfc42t8).
 
 ### Boat tour on Wednesday
 

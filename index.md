@@ -22,7 +22,7 @@ The workshop is split into three kinds of activities:
 3. Exercise sessions implementing categorical algorithms in CAP. Participants are also invited to implement their own work in CAP and we will be happy to provide help.
 
 The workshop aims at mathematicians, physicists, and computer
-scienists who want to learn about applications of algoritmic category
+scientists who want to learn about applications of algoritmic category
 theory and how CAP can be used to structure implementations in a
 categorical way.
 
