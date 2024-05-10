@@ -20,7 +20,7 @@ The workshop is split into three kinds of activities:
 [CAP](https://homalg-project.github.io/prj/CAP_project/) as a dialect
 of ALCT, and [CompilerForCAP](https://homalg-project.github.io/pkg/CompilerForCAP/).
 
-2. An explicit live show-case implementation of a [category constructor and an explicit categorical tower](https://homalg-project.github.io/docs/CAP_project-based/).
+2. An explicit live show-case implementation of a [category constructor](https://homalg-project.github.io/docs/CAP_project-based/) and an explicit categorical tower.
 
 3. Exercise sessions implementing categorical algorithms in CAP. Participants are also invited to implement their own work in CAP and we will be happy to provide help.
 
