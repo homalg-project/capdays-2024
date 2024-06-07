@@ -23,12 +23,12 @@ The program below is tentative and will be updated during the workshop
 * 12:30 - 14:00: Lunch
 * 14:00 - 15:00: Talk TBA
 * 15:00 - 15:30: Coffee break
-* 15:30 - 16:30: Talk TBA
+* 15:30 - 16:30: *The category of ZX diagrams for quantum computing as a categorical tower*
 * 16:30 - 17:30: Questions and discussions
 
 ### Tuesday:
 
-* 09:00 - 10:00: *The category of ZX diagrams for quantum computing as a categorical tower*
+* 09:00 - 10:00: *An introduction to CompilerForCAP*
 * 10:00 - 10:30: Coffee break
 * 10:30 - 12:00: *Live implementation of the interval catgory as a toy example of a categorical tower*
 * 12:00 - 14:00: Lunch
