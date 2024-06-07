@@ -19,7 +19,7 @@ The program below is tentative and will be updated during the workshop
 > Furthermore, we show the benefits of CAP's framework
 > for algorithmic category theory.
 * 11:00 - 11:30: Coffee break
-* 11:30 - 12:30: Barakat/Zickgraf: *Introduction to CAP: Constructive category theory and applications (Part II)*<br/>
+* 11:30 - 12:30: Barakat/Zickgraf: *Introduction to CAP: Algorithmic category theory and applications (Part II)*<br/>
 * 12:30 - 14:00: Lunch
 * 14:00 - 15:00: Talk TBA
 * 15:00 - 15:30: Coffee break
