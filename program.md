@@ -21,14 +21,14 @@ The program below is tentative and will be updated during the workshop
 * 11:00 - 11:30: Coffee break
 * 11:30 - 12:30: Barakat/Zickgraf: *Introduction to CAP: Algorithmic category theory and applications (Part II)*<br/>
 * 12:30 - 14:00: Lunch
-* 14:00 - 15:00: Talk TBA
+* 14:00 - 15:00: *The category of ZX diagrams for quantum computing as a categorical tower*
 * 15:00 - 15:30: Coffee break
-* 15:30 - 16:30: *The category of ZX diagrams for quantum computing as a categorical tower*
+* 15:30 - 16:30: Talk TBA
 * 16:30 - 17:30: Questions and discussions
 
 ### Tuesday:
 
-* 09:00 - 10:00: *An introduction to CompilerForCAP*
+* 09:00 - 10:00: Fabian Zickgraf: *An introduction to CompilerForCAP*
 * 10:00 - 10:30: Coffee break
 * 10:30 - 12:00: *Live implementation of the interval catgory as a toy example of a categorical tower*
 * 12:00 - 14:00: Lunch
@@ -38,7 +38,7 @@ The program below is tentative and will be updated during the workshop
 
 ### Wednesday:
 
-* 09:00 - 10:00: Talk TBA
+* 09:00 - 10:00: Kamal Saleh: *Machine Learning in CAP*
 * 10:00 - 10:30: Coffee break
 * 10:30 - 12:00: Exercise session/projects of participants
 * 12:00 - 14:00: Lunch
@@ -47,7 +47,7 @@ The program below is tentative and will be updated during the workshop
 
 ### Thursday:
 
-* 09:00 - 10:00: Talk TBA
+* 09:00 - 10:00: Sebastian Posur: TBA
 * 10:00 - 10:30: Coffee break
 * 10:30 - 12:00: Exercise session/projects of participants
 * 12:00 - 14:00: Lunch
