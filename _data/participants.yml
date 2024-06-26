@@ -1,11 +1,20 @@
 - name: Mohamed Barakat
   affiliation: University of Siegen, Germany
 
+- name: Callum Berry
+  affiliation: Lancaster University, England, UK
+
+- name: Kevin Carlson
+  affiliation: Topos Institute, Berkeley, USA
+
 - name: Damián de la Fuente
   affiliation: Université de Picardie Jules Verne, Amiens, France
 
 - name: Clément Dupont
   affiliation: Université de Montpellier, France
+
+- name: Owen Garnier
+  affiliation: Université de Picardie Jules Verne, Amiens, France
 
 - name: Daniel Juteau
   affiliation: Université de Picardie Jules Verne, Amiens, France
@@ -13,8 +22,26 @@
 - name: Tom Kuhmichel
   affiliation: University of Siegen, Germany
 
+- name: Paul Levy
+  affiliation: Lancaster University, England, UK
+
+- name: Jean Michel
+  affiliation: CNRS (emeritus), University Paris Cité, France
+
+- name: Yann Palu
+  affiliation: Université de Picardie Jules Verne, Amiens, France
+
+- name: Sebastian Posur
+  affiliation: University of Münster, Germany
+
+- name: Yamil Sagurie
+  affiliation: Universidad de Talca, Chile
+
 - name: Kamal Saleh
   affiliation: University of Siegen, Germany
+
+- name: Karine Sorlin
+  affiliation: Université de Picardie Jules Verne, Amiens, France
 
 - name: Fabian Zickgraf
   affiliation: University of Siegen, Germany
