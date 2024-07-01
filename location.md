@@ -15,6 +15,8 @@ UFR Sciences <br>
 
 Please look [here](https://maps.app.goo.gl/mptRFRHutuKjzPvf8) for directions.
 
+The talks and programming sessions will take place either in Room Sophie Germain, the co-working space next to it, or Amphi Parmentier. Those rooms are in [building G](https://www.u-picardie.fr/icp/formation/fichiers_formation/plans-upjv-6.pdf).
+
 ### Accommodation
 
 We recommend 
