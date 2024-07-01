@@ -9,7 +9,7 @@ title: Program
 
 The program below is tentative and will be updated during the workshop
 
-### Monday:
+### Monday: Room Sophie Germain
 
 * 09:50 - 10:00: Welcome
 * 10:00 - 11:00: Fabian Zickgraf: *Introduction to CAP: Algorithmic category theory and applications (Part I)*<br/>
@@ -26,7 +26,7 @@ The program below is tentative and will be updated during the workshop
 * 15:30 - 16:30: Exercise session
 * 16:30 - 17:30: Questions and discussions
 
-### Tuesday:
+### Tuesday: Morning Amphi Parmentier, afternoon Room Sophie Germain
 
 * 09:00 - 10:00: Fabian Zickgraf: *An introduction to CompilerForCAP*
 * 10:00 - 10:30: Coffee break
@@ -38,7 +38,7 @@ The program below is tentative and will be updated during the workshop
 * 17:00 - 17:30: Stand-up: What did we achieve today?
 * 19:00 Workshop dinner
 
-### Wednesday:
+### Wednesday: Room Sophie Germain
 
 * 09:00 - 10:00: Kamal Saleh: *Machine Learning in CAP*
 * 10:00 - 10:30: Coffee break
@@ -47,7 +47,7 @@ The program below is tentative and will be updated during the workshop
 * Afternoon: Boat tour at [Les Hortillonnages](https://maps.app.goo.gl/xC3aBqfiLkZxQC2V8)
 * Free evening, open discussions
 
-### Thursday:
+### Thursday: Room Sophie Germain
 
 * 09:00 - 10:00: Sebastian Posur: TBA
 * 10:00 - 10:30: Coffee break
@@ -59,7 +59,7 @@ The program below is tentative and will be updated during the workshop
 * 17:00 - 17:30: Stand-up: What did we achieve today?
 * 19:00: [Ile Aux Fruits](https://maps.app.goo.gl/5PbHfJX1gVWSk28H9)
 
-### Friday:
+### Friday: Co-working space
 
 * 09:00 - 10:00: Exercise session/projects of participants
 * 10:00 - 10:30: Coffee break
