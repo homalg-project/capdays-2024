@@ -36,7 +36,7 @@ The program below is tentative and will be updated during the workshop
 * 15:00 - 15:30: Coffee break
 * 15:30 - 17:00: Exercise session/projects of participants
 * 17:00 - 17:30: Stand-up: What did we achieve today?
-* 19:00 Workshop dinner
+* 19:00 Workshop Dinner at [Ôjardin Amiens](https://www.o-jardin-amiens.fr/)
 
 ### Wednesday: Room Sophie Germain
 
