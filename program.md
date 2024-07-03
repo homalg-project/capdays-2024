@@ -49,7 +49,14 @@ The program below is tentative and will be updated during the workshop
 
 ### Thursday: Room Sophie Germain
 
-* 09:00 - 10:00: Sebastian Posur: TBA
+* 09:00 - 10:00: Sebastian Posur: *Induced functors on Drinfeld centers*
+> **Abstract:** The center of a monoid is always a commutative monoid.
+> This statement has a categorified version: the center of a monoidal category is always a braided monoidal category, called its Drinfeld center.
+> This talk is motivated by the following question: can we find useful categorical tools for the construction of objects in the Drinfeld center?
+> For this, we show how to construct induced (op)lax monoidal functors between Drinfeld centers from a given (op)monoidal adjunction for which the so-called projection formula holds.
+> These induced functors can then be used for the construction of internal (co)algebra objects in the Drinfeld center.
+> We also discuss when these induced functors are Frobenius monoidal functors.
+> This is joint work (in progress) with Johannes Flake (Universität Bonn) and Robert Laugwitz (University of Nottingham). 
 * 10:00 - 10:30: Coffee break
 * 10:30 - 12:00: Exercise session/projects of participants
 * 12:00 - 14:00: Lunch
